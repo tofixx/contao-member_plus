@@ -265,7 +265,7 @@ $arrDca['fields']['additionalAddresses'] = [
             ],
         ],
         'palettes' => [
-            'default' => '{contact_legend},phone,fax;{address_legend},company,street,street2,postal,city,state,country,addressText',
+            'default' => '{contact_legend},phone,mobile,fax,email,website;{address_legend},company,street,street2,postal,city,state,country,addressText',
         ],
     ],
 ];
